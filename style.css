@@ -1,3 +1,19 @@
-.h1toquio {
-    text-align:left;
+.toquiofoto{
+    width:10vw;
+    height:7vw;
+    background-size:cover;
+    background-repeat: no-repeat;
+                
+}
+
+h1 {
+    font-size:5vw;
+    float: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;    
+    text-align: center;
+}
+
+h2 {
+    max-width: 30vw;
 }
